@@ -1,3 +1,4 @@
 # nexus-core
 NexusCore is an Arch based distro.
-Description soon
+--
+NexusCore is discontinued and has been succeeded by Synterra. Get Synterra [here](https://github.com/realphoni/synterra).
